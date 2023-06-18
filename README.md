@@ -4,6 +4,7 @@ The cameras comprise the Nikon cameras D7100 (Nikon Corporation, Minato, Tokyo, 
 
 ## Resources
 * Source Repository: https://github.com/diloc/camera_control
+* Jupyter Notebook: https://github.com/diloc/camera_control/blob/main/camera_control.ipynb
 
 ## Dependencies
 * Python (3. 7 or higher).
